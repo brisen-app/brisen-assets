@@ -27,7 +27,7 @@ Our brand color palette consists of the following colors:
 
 | **App Icon** |
 |:------------:|
-| <img src="assets/app-icons/icon.png" alt="App icon" height="200" width="200"> |
+| <img src="assets/app-icons/icon-preview.png" alt="App icon" height="200" width="200"> |
 | `assets/app-icons/icon.png` |
 | The official icon for our application, designed for use in app stores and on devices. |
 
