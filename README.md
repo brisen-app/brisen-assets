@@ -47,7 +47,7 @@ Screenshots are an essential part of any app store listing. They provide users w
 | ![Game View](assets/store/screenshots/en/IMG_0595.jpeg) | ![Card Details](assets/store/screenshots/en/IMG_0596.jpeg) | ![Bottom Sheet](assets/store/screenshots/en/IMG_0598.jpeg) |
 
 # Pack Artworks
-This is a selectio n of pack artworks that are used in the app. These artworks are displayed on the pack selection screen and help users identify different packs.
+This is a selection of pack artworks that are used in the app. These artworks are displayed on the pack selection screen and help users identify different packs.
 
 All artworks are generated with Midjourney, using the following prompt template:
 ```
