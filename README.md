@@ -44,7 +44,7 @@ Screenshots are an essential part of any app store listing. They provide users w
 
 | **Game View** | **Card Details** | **Bottom Sheet** |
 |:----------------:|:----------------:|:----------------:|
-| ![Screenshot 1](assets/store/screenshots/en/IMG_0595.jpeg) | ![Screenshot 1](assets/store/screenshots/en/IMG_0596.jpeg) | ![Screenshot 2](assets/store/screenshots/en/IMG_0598.jpeg) |
+| ![Game View](assets/store/screenshots/en/IMG_0595.jpeg) | ![Card Details](assets/store/screenshots/en/IMG_0596.jpeg) | ![Bottom Sheet](assets/store/screenshots/en/IMG_0598.jpeg) |
 
 # Pack Artworks
 This is a selectio n of pack artworks that are used in the app. These artworks are displayed on the pack selection screen and help users identify different packs.
@@ -54,10 +54,7 @@ All artworks are generated with Midjourney, using the following prompt template:
 <simple description> icon --chaos 20 --sref https://s.mj.run/U4tp9H-WA_Q --stylize 300 --v 6
 ```
 
-
-| **Studentlife** | **Meet n Greet** | **Workaholic** | **Summertime** |
-|:------------------:|:------------------:|:------------------:|:------------------:|
-| ![Studentlife](assets/packs/student.jpeg) | ![Meet n Greet](assets/packs/meet_n_greet.jpeg) | ![Workaholic](assets/packs/work.jpeg) | ![Summertime](assets/packs/summer.jpeg) |
+![Pack artworks](assets/packs/mosaic.jpg)
 
 # License
 
