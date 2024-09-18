@@ -12,7 +12,7 @@
 |:------------------:|:--------------------:|
 | <img src="assets/logo/logo-text.png" alt="Logo" height="100"> | <img src="assets/logo/logo-b.png" alt="Icon" height="100"> |
 | `assets/logo/logo-text.png` | `assets/logo/logo-b.png` |
-| The full text version of our logo, ideal for larger displays and branding materials. | A simplified version of our logo, perfect for small icons and app badges. |
+| The full-text version of our logo, ideal for larger displays and branding materials. | A simplified version of our logo, perfect for small icons and app badges. |
 
 # Brand Color Palette
 
@@ -58,7 +58,7 @@ All artworks are generated with Midjourney, using the following prompt template:
 
 # License
 
-The assets in this repository are licensed under a custom license that restricts their use to contributions to the original project. Redistribution, commercial use, and access to restricted content are prohibited. For full details, please refer to the [LICENSE](https://github.com/brisen-app/brisen-assets/blob/main/LICENSE) file.
+The assets in this repository are licensed under a custom license that restricts their use to contributions to the original project. Redistribution, commercial use, and access to restricted content are prohibited. For full details, please refer to the [LICENSE](LICENSE) file.
 
 Feel free to use these assets as needed, and make sure to adhere to our usage guidelines as specified in the accompanying license.
 
