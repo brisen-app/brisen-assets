@@ -42,9 +42,9 @@ Our brand color palette consists of the following colors:
 # Screenshots
 Screenshots are an essential part of any app store listing. They provide users with a visual representation of the app’s features and functionality. Here are some screenshots from our app:
 
-| **Game View** | **Card Details** | **Bottom Sheet** |
+| **Screenshot 1** | **Screenshot 2** | **Screenshot 3** |
 |:----------------:|:----------------:|:----------------:|
-| ![Game View](assets/store/screenshots/en/IMG_0595.jpeg) | ![Card Details](assets/store/screenshots/en/IMG_0596.jpeg) | ![Bottom Sheet](assets/store/screenshots/en/IMG_0598.jpeg) |
+| ![Screenshot 1](assets/store/screenshots/en/preview-en-1.jpg) | ![Screenshot 2](assets/store/screenshots/en/preview-en-2.jpg) | ![Screenshot 3](assets/store/screenshots/en/preview-en-3.jpg) |
 
 # Pack Artworks
 This is a selection of pack artworks that are used in the app. These artworks are displayed on the pack selection screen and help users identify different packs.
